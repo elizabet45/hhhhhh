@@ -1,0 +1,27 @@
+body{
+    background-image: url(nmixx.jpg);
+   background-size: cover;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+   font-size: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-transform: capitalize;
+   background-color: white;
+   color: black;
+   border: 2px solid blue; /*blue*/
+}
+footer{
+    text-align: left;
+    vertical-align: middle;
+}
+nav{
+    display: grid;
+}
+
+
+
+
